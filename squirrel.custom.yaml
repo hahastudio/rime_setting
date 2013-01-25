@@ -1,0 +1,21 @@
+patch:
+  show_notifications_when: growl_is_running
+  style:
+    font_point: 18
+    color_scheme: starcraft
+    font_face: STSong
+    horizontal: true
+    corner_radius: 10
+  ascii_composer/good_old_caps_lock: true
+  ascii_composer/switch_key:
+    Caps_Lock: noop
+    Shift_L: commit_code
+    Shift_R: commit_code
+    Control_L: noop
+    Control_R: noop
+  app_options/com.apple.dt.Xcode:
+    ascii_mode: true
+  app_options/com.sublimetext.2:
+    ascii_mode: true
+  app_options/com.apple.Terminal:
+    ascii_mode: true

@@ -1,0 +1,7 @@
+patch:
+  show_notifications_when: growl_is_running
+  style:
+    font_point: 14
+    color_scheme: google
+    font_face: STSong
+    horizontal: true
