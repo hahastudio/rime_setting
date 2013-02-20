@@ -1,0 +1,206 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: meow_emoji
+version: "0.1"
+sort: original
+...
+
+AA制	aazhi
+A股	agu
+א	aleph
+∀	all
+∩	and
+∧	and
+∠	angle
+B超	bchao
+≠	bdy
+B股	bgu
+B超	bichao
+∪	bing
+首席执行官	ceo
+÷	ch
+×	ch
+÷	chu
+⊥	chzh
+C盘	cpan
+治愈（cuīlèi）	cuilei
+C语言	cyuyan
+大物（gāoshù）	dawu
+≥	dd
+√	dg
+脱氧核糖核酸	dna
+D盘	dpan
+°	du
+≥	dydy
+诶嘿~(ゝω・)☆﻿	eihei
+嗯	en
+∬	erchjf
+∃	exist
+Φ	fai
+φ	fai
+□	fk
+■	fk
+℉	fsd
+全球定位系统	gps
+≡	hd
+H股	hgu
+ˊ＿>ˋつ[_]﻿	hongcha
+⌒	hu
+(「・ω・)「	hujun
+∨	huo
+IC卡	icka
+IP电话	ipdianhua
+IP地址	ipdizhi
+IP卡	ipka
+∩	jiao
+∠	jiao
+\(>。<)/	jubi
+( -__•́)▄︻┻┳══━	juji
+卡拉OK	kalaok
+(<ゝω·)☆KIRA！	kira
+(ノ◇≤。)	kun
+治愈（lièqí）	lieqi
+★⁂∻∺≖≔⊷⊹	liuxing
+㏑	ln
+㏒	log
+Fus Ro Dah!!!	longhou
+｜－°)	loutou
+( .σ _ζσ)	lshu
+◇	lx
+◆	lx
+(ΦωΦ)	maoji
+ლ(╹◡╹ლ)	mo
+(」・ω・)」うー！(／・ω・)／にゃー	naiyazi
+治愈（nüèxīn）	nvexin
+∪	or
+∨	or
+_(:3」∠)_﻿	paxia
+PC机	pcji
+2	pf
+∏	pi
+∥	px
+（●ω●）	qb
+≌	qdy
+奇瑞QQ	qiruiqq
+⑨	qjiu
+c7e9c2c2c8a5cbc0	qlqs
+（<ゝω・）綺羅星~☆	qlx
+QQ号	qqhao
+(°Д°)凸	shengqi
+SIM卡	simka
+▲	sjx
+△	sjx
+℃	ssd
+T恤	tixu
+T恤衫	tixushan
+T型台	txingtai
+T恤	txu
+U盘	upan
+→ᴗ→	waixiao
+∮	wdjf
+☆	wjx
+★	wjx
+(ง •̀∀•́)ง	woquan
+∞	wq
+≤	xd
+(╯-_-)╯┴─┴	xianzhuo
+X射线	xshexian
+∽	xsy
+虚渊玄（QB）	xuyuanxuan
+≤	xydy
+≈	ydy
+∧	yu
+○	yuan
+☉	yuan
+±	zf
+∝	zhb
+∝	zhby
+侦探（sǐshén）	zhentan
+±	zhf
+く(TAT)	zhijing
+催泪（zhìyù）	zhiyu
+虐心（zhìyù）	zhiyu
+猎奇（zhìyù）	zhiyu
+┐(･ω･┐)	zhonger
+☜( ╹◡╹☜) ☝( ╹◡╹☝) ( ☞╹◡╹)☞ ☟( ╹◡╹☟)﻿	zhuanshouzhi
+┬─┬ ︵ /(.□. \）	zhuoxian
+ヽ(*ﾟдﾟ)ノｶｲﾊﾞｰ	zhushoumoe
+←	zjt
+┏(゜ω゜)=☞	zouni
+°	du
+♂	nan
+♀	nv
+↑	sjt
+↓	xjt
+♥	xin
+★	xing
+✩	xing
+♪	yin fu
+♫	yin fu
+→	yjt
+↗	you shang
+↘	you xia
+←	zjt
+↖	zuo shang
+↙	zuo xia
+⑨	9
+∵	because
+∴	therefore
+~	sim
+∈	in
+⊂	subset
+⊆	subseteq
+∑	sum
+∏	prod
+∫	int
+# 
+Α	alpha
+Β	beta
+Γ	gamma
+Δ	delta
+Ε	epsilon
+Ζ	zeta
+Η	eta
+Θ	theta
+Ι	iota
+Κ	kappa
+Λ	lambda
+Μ	mu
+Ν	nu
+Ξ	xi
+Ο	omicron
+Π	pi
+Ρ	rho
+Σ	sigma
+Τ	tau
+Υ	upsilon
+Φ	phi
+Χ	chi
+Ψ	psi
+Ω	omega
+α	alpha
+β	beta
+γ	gamma
+δ	delta
+ε	epsilon
+ζ	zeta
+η	eta
+θ	theta
+ι	iota
+κ	kappa
+λ	lambda
+μ	mu
+ν	nu
+ξ	xi
+ο	omicron
+π	pi
+ρ	rho
+σ	sigma
+τ	tau
+υ	upsilon
+φ	phi
+χ	chi
+ψ	psi
+ω	omega

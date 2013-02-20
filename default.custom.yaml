@@ -21,3 +21,4 @@ patch:
     #- schema: zyenpheng     # 中古漢語全拼
     #- schema: ipa_xsampa    # X-SAMPA 國際音標
     - schema: emoji         # emoji表情
+    - schema: meow_emoji

@@ -1,13 +1,13 @@
 ascii_composer:
-  good_old_caps_lock: false
+  good_old_caps_lock: true
   switch_key:
     Caps_Lock: commit_code
     Control_L: noop
     Control_R: noop
     Shift_L: inline_ascii
     Shift_R: commit_text
-config_version: 0.17.custom.2516064397
-customization: 2516064397
+config_version: 0.18.custom.3651098175
+customization: 3651098175
 key_binder:
   bindings:
     - accept: "Control+p"
@@ -106,10 +106,10 @@ punctuator:
       - "＊"
       - "*"
       - "・"
+      - "·"
       - "×"
       - "※"
       - "❂"
-      - "·"
     "+":
       - "＋"
       - "+"
@@ -218,10 +218,10 @@ punctuator:
       - "*"
       - "＊"
       - "・"
+      - "·"
       - "×"
       - "※"
       - "❂"
-      - "·"
     "+": "+"
     ",":
       commit: "，"
@@ -296,6 +296,7 @@ recognizer:
 schema_list:
   - schema: luna_pinyin
   - schema: emoji
+  - schema: meow_emoji
 switcher:
   caption: "〔方案選單〕"
   hotkeys:

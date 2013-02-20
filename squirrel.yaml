@@ -21,8 +21,9 @@ ascii_composer:
     Control_R: noop
     Shift_L: commit_code
     Shift_R: commit_code
-config_version: 0.18.custom.2809851585
-customization: 2809851585
+chord_duration: 0.1
+config_version: 0.19.custom.2684950287
+customization: 2684950287
 preset_color_schemes:
   aqua:
     author: "佛振 <chen.sst@gmail.com>"

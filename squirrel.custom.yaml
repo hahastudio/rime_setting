@@ -1,4 +1,5 @@
 patch:
+  ascii_composer/good_old_caps_lock: true
   show_notifications_when: growl_is_running
   style:
     font_point: 18
@@ -6,16 +7,13 @@ patch:
     font_face: STSong
     horizontal: true
     corner_radius: 10
-  ascii_composer/good_old_caps_lock: true
+  app_options/com.apple.dt.Xcode: &a
+    ascii_mode: true
+  app_options/com.sublimetext.2: *a
+  app_options/com.apple.Terminal: *a
   ascii_composer/switch_key:
     Caps_Lock: noop
-    Shift_L: commit_code
     Shift_R: commit_code
     Control_L: noop
     Control_R: noop
-  app_options/com.apple.dt.Xcode:
-    ascii_mode: true
-  app_options/com.sublimetext.2:
-    ascii_mode: true
-  app_options/com.apple.Terminal:
-    ascii_mode: true
+    Shift_L: commit_code
