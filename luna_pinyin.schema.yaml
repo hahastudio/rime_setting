@@ -1,7 +1,7 @@
 abc_segmentor:
   extra_tags:
     - reverse_lookup
-customization: 2589993403
+customization: 4257732744
 engine:
   filters:
     - simplifier
@@ -37,7 +37,7 @@ reverse_lookup:
   dictionary: meow_emoji
   enable_completion: false
   prefix: "`"
-  tips: "〔表情〕"
+  tips: "〔颜文字〕"
 schema:
   author:
     - "佛振 <chen.sst@gmail.com>"
@@ -46,7 +46,7 @@ schema:
   description: "Rime 預設的拼音輸入方案。\x0a參考以下作品而創作：\x0a  * CC-CEDICT\x0a  * Android open source project\x0a  * Chewing - 新酷音\x0a  * opencc - 開放中文轉換\x0a"
   name: "朙月拼音"
   schema_id: luna_pinyin
-  version: 0.13.custom.2589993403
+  version: 0.13.custom.4257732744
 speller:
   algebra:
     - "erase/^xx$/"
