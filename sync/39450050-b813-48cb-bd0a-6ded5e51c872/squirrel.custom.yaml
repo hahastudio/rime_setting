@@ -1,7 +1,19 @@
 patch:
+  ascii_composer/good_old_caps_lock: true
   show_notifications_when: growl_is_running
   style:
-    font_point: 14
-    color_scheme: google
+    font_point: 18
+    color_scheme: starcraft
     font_face: STSong
     horizontal: true
+    corner_radius: 10
+  app_options/com.apple.dt.Xcode: &a
+    ascii_mode: true
+  app_options/com.sublimetext.2: *a
+  app_options/com.apple.Terminal: *a
+  ascii_composer/switch_key:
+    Caps_Lock: noop
+    Shift_R: commit_code
+    Control_L: noop
+    Control_R: noop
+    Shift_L: commit_code

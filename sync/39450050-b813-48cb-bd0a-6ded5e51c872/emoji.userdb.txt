@@ -1,0 +1,8 @@
+# Rime user dictionary
+#@/db_name	emoji.userdb.kct
+#@/db_type	userdb
+#@/rime_version	0.9.7
+#@/tick	3
+#@/user_id	39450050-b813-48cb-bd0a-6ded5e51c872
+biaoqing 	😝	c=1 d=1 t=1
+wupin 	☎	c=2 d=1.99501 t=3

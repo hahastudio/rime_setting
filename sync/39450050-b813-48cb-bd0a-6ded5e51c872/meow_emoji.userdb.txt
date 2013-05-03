@@ -1,0 +1,6 @@
+# Rime user dictionary
+#@/db_name	meow_emoji.userdb.kct
+#@/db_type	userdb
+#@/rime_version	0.9.7
+#@/tick	0
+#@/user_id	39450050-b813-48cb-bd0a-6ded5e51c872

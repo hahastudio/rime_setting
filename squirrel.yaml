@@ -9,6 +9,8 @@ app_options:
     ascii_mode: true
   com.googlecode.iterm2:
     ascii_mode: true
+  "com.runningwithcrayons.Alfred-2":
+    ascii_mode: true
   com.sublimetext.2:
     ascii_mode: true
   org.vim.MacVim:
@@ -22,7 +24,7 @@ ascii_composer:
     Shift_L: commit_code
     Shift_R: commit_code
 chord_duration: 0.1
-config_version: 0.19.custom.2684950287
+config_version: 0.20.custom.2684950287
 customization: 2684950287
 preset_color_schemes:
   aqua:
@@ -97,6 +99,16 @@ preset_color_schemes:
     hilited_candidate_text_color: 0x7fffff
     name: "明月／Luna"
     text_color: 0xeceeee
+  solarized_rock:
+    author: "Aben <tntaben@gmail.com>, based on Ethan Schoonover's Solarized color scheme"
+    back_color: 0x362b00
+    border_color: 0x362b00
+    candidate_text_color: 0x969483
+    hilited_candidate_back_color: 0x8236d3
+    hilited_candidate_text_color: 0xffffff
+    hilited_text_color: 0x98a12a
+    name: "曬經石／Solarized Rock"
+    text_color: 0x009985
   starcraft:
     author: "Contralisk <contralisk@gmail.com>, original artwork by Blizzard Entertainment"
     back_color: 0xee000000
